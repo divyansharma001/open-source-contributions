@@ -1,5 +1,4 @@
 # Open Source Contributions
-**Divyansh Sharma** — Software Engineer
 
 Curated log of my upstream contributions: merged PRs, active reviews, and meaningful fixes.
 
